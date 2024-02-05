@@ -12,7 +12,7 @@ Getting Started
 . Clone this repository to your local machine using the following command:
 . shell
 . Copy code
-. git clone https://github.com/your-username/EnigmaMachine.git
+. git clone (https://github.com/Sreechandh22/EnigmaMachine)
 . Navigate to the project directory:
 . shell
 . Copy code
